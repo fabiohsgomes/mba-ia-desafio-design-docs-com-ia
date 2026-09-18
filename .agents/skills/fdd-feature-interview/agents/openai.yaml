@@ -1,0 +1,3 @@
+interface:
+  display_name: "Entrevista de FDD"
+  short_description: "Conduz entrevista e gera FDD de feature"
