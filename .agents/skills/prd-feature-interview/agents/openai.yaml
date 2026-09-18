@@ -1,0 +1,3 @@
+interface:
+  display_name: "Entrevista de PRD"
+  short_description: "Conduz entrevista e gera PRD de feature"
