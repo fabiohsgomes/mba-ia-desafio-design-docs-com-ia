@@ -5,7 +5,7 @@ description: Conduz uma entrevista estruturada em português para criar um FDD t
 
 # Entrevista para gerar FDD de feature
 
-Use esta skill para conduzir a entrevista e entregar o FDD. Antes de iniciar, leia integralmente o [prompt de referência](../../../docs/references/prompt-interview-fdd.md).
+Use esta skill para conduzir a entrevista e entregar o FDD. Antes de iniciar, leia integralmente o [prompt de referência](references/prompt-interview-fdd.md).
 
 O prompt de referência é a instrução canônica desta skill: siga-o integralmente, inclusive o fluxo de entrevista, o formato Markdown do FDD e a estrutura opcional de JSON. Não exiba o JSON interno durante a coleta.
 

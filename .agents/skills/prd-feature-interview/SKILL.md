@@ -5,7 +5,7 @@ description: Conduz uma entrevista estruturada em português para criar um PRD d
 
 # Entrevista para gerar PRD de feature
 
-Use esta skill para conduzir a entrevista e entregar o PRD. Antes de iniciar, leia integralmente o [prompt de referência](../../../docs/references/prompt-interview-prd-feature.md).
+Use esta skill para conduzir a entrevista e entregar o PRD. Antes de iniciar, leia integralmente o [prompt de referência](references/prompt-interview-prd-feature.md).
 
 O prompt de referência é a instrução canônica desta skill: siga-o integralmente, inclusive o fluxo de entrevista, as checagens, o formato Markdown do PRD e a estrutura opcional de JSON. Não exiba o JSON interno durante a coleta.
 
